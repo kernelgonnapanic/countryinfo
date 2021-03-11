@@ -1,0 +1,15 @@
+.filter__wrapper {
+  width: 200px;
+  height: 40px;
+  background-color: $grey-bright;
+  color: white;
+  border: none;
+  padding-left: 20px;
+  font-size: $font-size-filter;
+}
+
+@media (max-width: 480px) {
+  .filter__wrapper {
+    margin-top: 20px;
+  }
+}

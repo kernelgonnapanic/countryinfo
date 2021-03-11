@@ -1,0 +1,28 @@
+/* Font Size */
+$font-size-header: 20px;
+$font-size-countries-list: 14px;
+$font-size-country-details: 16px;
+$font-size-filter: 14px;
+
+/* Colors - text */
+$text-color: #fff;
+
+/* Colors - backgorund */
+$grey-bright: hsl(209, 23%, 22%);
+$grey-dark: hsl(209, 23%, 22%);
+
+/* Dimensions */
+$heading-height: 100px;
+
+/* Effects Static - button */
+
+$button-shadow: 5px 8px 15px 1px #000000;
+
+/* Effects Static - Hover */
+
+$button-hover: hsl(208, 19%, 17%);
+
+/* Media Queries */
+$font-size-filter-rwd480: 14px;
+$font-size-country-rwd1200: 12px;
+$font-size-country-rwd320: 10px;
