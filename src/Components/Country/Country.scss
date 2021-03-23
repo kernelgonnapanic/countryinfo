@@ -3,7 +3,7 @@
 .country__wrapper {
   padding: 70px;
   color: $text-color;
-  min-height: calc(100vh - $heading-height);
+  min-height: calc(100vh - 100px);
   font-size: $font-size-country-details;
 }
 
